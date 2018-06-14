@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "128198670591",
+    "firebase_url": "https://ipl2-41829.firebaseio.com",
+    "project_id": "ipl2-41829",
+    "storage_bucket": "ipl2-41829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128198670591:android:f0b9c0f9be8d3049",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128198670591-jk2uevbfkn3sse44s7orgdd270qep55c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.calendar",
+            "certificate_hash": "96df154467391a55375d63c5b03878b95d8cab3c"
+          }
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZ0g7a7hBYcurOnig_lw8kxV8nfBBsIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128198670591:android:b6fa924b2c9023ae",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128198670591-mpl3gb9qka8h7r9uok60tt03iol3na2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.firebase",
+            "certificate_hash": "ba30696c76685fb2eaea7ea48a1c86dd8b80d547"
+          }
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZ0g7a7hBYcurOnig_lw8kxV8nfBBsIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128198670591:android:5130ac209ee8798a",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.picasso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128198670591-plgkqsunj03dbdut3234s81moli6l67a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.picasso",
+            "certificate_hash": "96df154467391a55375d63c5b03878b95d8cab3c"
+          }
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZ0g7a7hBYcurOnig_lw8kxV8nfBBsIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128198670591-h310msoaokc6i54nn4p171dancua92ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
